@@ -1,0 +1,110 @@
+    1  pwd
+    2  ls
+    3  cd Projects/
+    4  ls
+    5  cd okcoders-winter-2018-week2
+    6  ls
+    7  git status
+    8  git add -A School_Project_AboutMe.html
+    9  git commit -m 020518_Updated_School_Project_AboutMe_NewFile.html
+   10  git push
+   11  pwd
+   12  ls
+   13  cd Projects/
+   14  ls
+   15  cd okcoders-winter-2018-week2
+   16  ls
+   17  git add -A School_Project_AboutMe.html
+   18  git add -A schoolproject.css
+   19  git status
+   20  git commit -m 020518_Updated_Aboutme.html
+   21  git commit -m 020518_Updated_Aboutme.css
+   22  git push
+   23  pwd
+   24  ls
+   25  cd Projects/
+   26  ls
+   27  cd week-3
+   28  ls
+   29  pwd
+   30  ls
+   31  cd Projects/
+   32  ls
+   33  cd week-3
+   34  ls
+   35  cd School_Project_BlogPost
+   36  ks
+   37  ls
+   38  touch BlogPost.html
+   39  ls
+   40  touch BlogPost.css
+   41  pwd
+   42  ls
+   43  pwd
+   44  ls
+   45  cd Projects/
+   46  ls
+   47  cd week-3
+   48  ls
+   49  cd School_Project_blogPost
+   50  ls
+   51  git status
+   52  git add -A BlogPost.html
+   53  git commit -m 020518_Updated_BlogPost
+   54  git push
+   55  git remote add BlogPost.html
+   56  pwd
+   57  cd Projects/
+   58  ls
+   59  ls
+   60  cd Projects/
+   61  pwd
+   62  ls
+   63  cd Projects/
+   64  cd
+   65  pwd
+   66  ls
+   67  cd Projects/
+   68  mkdir okcoders-winter-2018-week4
+   69  cd okcoders-winter-2018-week4
+   70  ls
+   71  pwd
+   72  echo something
+   73  echo "something else goes here"
+   74  echo "hello world"
+   75  "hello world" > msg.txt
+   76  "hello world" > msg.txt
+   77  echo "hello world" > msg.txt
+   78  ls
+   79  cat msg.txt
+   80  echo hello world -x
+   81  echo -x hello world
+   82  echo --help
+   83  echo subl
+   84  echo $PWD
+   85  pwd
+   86  echo "This is really really good class."> msg.txt
+   87  subl
+   88  echo "This is reallly really good class." > msg.txt
+   89  subl msg.txt
+   90  echo "This is reallly really good class." > msg.txt
+   91  subl msg.txt
+   92  echo subl msg.txt
+   93  echo "hello world" . msg.txt
+   94  cat msg. txt
+   95  echo "hello world" > msg.txt
+   96  ls
+   97  cat msg.txt
+   98  scho "there is more to this message" >> msg.txt
+   99  echo "there is more to this message" >> msg.txt
+  100  cat msg.txt
+  101  la
+  102  ls
+  103  cp msg.txt newfile.txt
+  104  rm msg.txt
+  105  cat newfile.txt
+  106  mv newfile.txt ..^C
+  107  ls
+  108  history
+  109  history
+  110  history > myhistory.txt
