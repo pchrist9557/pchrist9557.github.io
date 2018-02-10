@@ -1,0 +1,32 @@
+body {
+	margin: 0 auto;
+	font-family:"Helvetica", "Arial", sans-serif;
+	line-height: 1.5;
+}
+header {
+	background-color:#D4C1AB;
+	background-image: url("../images/pizza1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 2em;
+	text-align: center;
+	color:white;
+}
+.sidebar {
+	order:1;
+	flex: 1;
+	padding: 1.5em;
+	background-color: #9C8F8E;
+
+}
+.main {
+	display: flex;
+	width: 100%;
+	min-height: 888px;	
+
+.content {
+	background-color: #D4C1AB;
+	order: 1;
+	flex: 5;
+	padding: 2.5em;
+}
